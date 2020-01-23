@@ -1,0 +1,9 @@
+[submodule "teardrops"]
+	path = teardrops
+	url = https://github.com/NilujePerchut/kicad_scripts
+[submodule "HierPlace"]
+	path = HierPlace
+	url = https://github.com/xesscorp/HierPlace
+[submodule "InteractiveHtmlBom"]
+	path = InteractiveHtmlBom
+	url = https://github.com/openscopeproject/InteractiveHtmlBom
